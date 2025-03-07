@@ -19,3 +19,10 @@ Foi a presentado os modelos de SLA e seus tempos de indiponibilidades contratuai
 Depois mostrou como configura zonas e mostrou como se usa o doc de forma mais intiutiva clicando onde o azure apresenta as ?
 depois igual foi decorrido como cadas escolha pode influienciar no valo final da aplicação senod que dependendo da arquitetura escolhido pode se tornar masi caro ou mais barato
 
+
+3 - Criação de Banco de dados na Azure
+
+Nessa seção foi apresentado tanto a tela de criação de maquina virtual quando a de banco de dados
+mostrando pontos de atenção e aoresentação da calculado para determinas consumos de serviços
+
+
