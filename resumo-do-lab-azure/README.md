@@ -25,4 +25,17 @@ depois igual foi decorrido como cadas escolha pode influienciar no valo final da
 Nessa seção foi apresentado tanto a tela de criação de maquina virtual quando a de banco de dados
 mostrando pontos de atenção e aoresentação da calculado para determinas consumos de serviços
 
+5 - Componentes de arquitetura
+
+Iniciou apresentando o globo de datacentes, mostrando o Brasil e mostrando que a regiuão de replica de dados é para os EUA
+E mostrando que para determinados usuario dependenod do lgpd ira fazer uma replicação para o RIO
+mas a medida de apresentar para a microsoft 
+
+Depois foi mostrado como se cria um grupo de recursos, mostranod a reigião e o nome daquele grupo de recursos
+Depois foi mostrado as abas, as de regeciamento de usuario, permissões 
+e os logs para auditoria
+
+Posteriomente criou uma Rede virtural (VNet) vinculada aqueal grupo de recursos cadastrado anteriormente
+
+
 
