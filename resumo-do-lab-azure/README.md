@@ -37,5 +37,34 @@ e os logs para auditoria
 
 Posteriomente criou uma Rede virtural (VNet) vinculada aqueal grupo de recursos cadastrado anteriormente
 
+6 - Crianod recursos e dimensioanmento de Rede
+
+Foram apresentado as criações de maquinas virtuais de forma automatica, com pre definições da própria azure
+mostrando que cada configuraçãos é montada para um proposito, entaõ por exemplo um vm de teste tem um perfil de configuração e outra de produção tem outra
+
+Após isso fomos nada conifguraçãoes padrão, apresentando os pontos principalmete de disponibilidade apresentando quais cas configurações
+para que o pod cresça horizontamente ou não 
+
+posterior mostrou o sistemas siponiveis 
+
+e a familias de tipode amarmazenamento, assim como a rede e setando na marte de rede e de espaço apagar junto com o delete da maquina parar custos memso com a excluzão da VM
+
+verificando tbm a parte de monitoriamento, como alerta 
+
+depois foi apresentado tbm a parde de a Area de trabalho Virtual
+(teams, office 356 ) e demais perfil de configuração 
+ 
+por ultimo foi apresentado as functions, mostrando os aplicativos de funções alertando sobre que a linguagem muda de acordo com a linguagem
+ python é linux
+ .net microsoft
+ java microsoft 
+
+ 
+ 
+
+
+
+
+
 
 
