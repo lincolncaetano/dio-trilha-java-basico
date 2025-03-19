@@ -9,6 +9,9 @@
 
 Sentença 1
 
+![image](https://github.com/user-attachments/assets/bfbb3bb6-7a41-4f71-af2c-16593f215945)
+
+
 ![image](https://github.com/user-attachments/assets/9d2efad7-5087-4d87-9728-275b3cfdf9dd)
 
 
