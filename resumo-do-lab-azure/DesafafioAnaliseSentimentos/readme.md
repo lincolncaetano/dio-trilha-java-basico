@@ -1,3 +1,5 @@
+Iniciando o processo de configuração para posteriomente ser usadno no Language
+
 ![image](https://github.com/user-attachments/assets/bb9240c6-69db-43f6-ad81-be28c8f5f378)
 
 
@@ -5,6 +7,9 @@
 
 
 ![image](https://github.com/user-attachments/assets/6d5cb445-3b75-4e50-a191-46e8e9f6fdcf)
+
+
+Após a configuração, busquei feedback reais no mercado livre e no booking
 
 
 Sentença 1
